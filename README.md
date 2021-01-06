@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on fun open source projects
 - ⚡ Fun fact: I like science fiction
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyc0626&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.rickyc0626.vercel.app/api/top-langs/?username=rickyc0626&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
