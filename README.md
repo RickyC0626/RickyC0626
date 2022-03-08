@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RickyC0626&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/top-langs/?username=rickyc0626&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,jupyter%20notebook,css" />
+  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/top-langs/?username=rickyc0626&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,jupyter%20notebook,css,scss" />
 </a>
 
 ## Projects I'm currently working on
