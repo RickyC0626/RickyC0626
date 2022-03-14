@@ -18,6 +18,7 @@
 <a href="https://github.com/rickyc0626/skwash">
   <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=rickyc0626&repo=skwash&theme=dark&border_color=333333" />
 </a>
+<a href="https://github.com/rickyc0626/vibrainium">
   <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=rickyc0626&repo=vibrainium&theme=dark&border_color=333333" />
 </a>
 
