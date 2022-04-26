@@ -1,30 +1,14 @@
-# Welcome to my profile!
-
 ![Metrics](github-metrics.svg)
 
-## Projects I'm currently working on
+### Ongoing projects
 
-<a href="https://github.com/rickyc0626/neo-dashboard">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=rickyc0626&repo=neo-dashboard&theme=dark&border_color=333333" />
-</a>
-<a href="https://github.com/rickyc0626/skwash">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=rickyc0626&repo=skwash&theme=dark&border_color=333333" />
-</a>
-<a href="https://github.com/rickyc0626/vibrainium">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=rickyc0626&repo=vibrainium&theme=dark&border_color=333333" />
-</a>
+- [NEO Dashboard](https://github.com/rickyc0626/neo-dashboard): A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API.
+- [Skwash](https://github.com/rickyc0626/skwash): A homegrown issue tracker designed to help you squash bugs.
+- [Vibrainium](https://github.com/rickyc0626/vibrainium): A forum like StackOverflow for you and your future self.
 
-## Open-source projects I've contributed to
+### Open-source contributions
 
-<a href="https://github.com/discourse/discourse">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=discourse&repo=discourse&theme=dark&border_color=333333" />
-</a>
-<a href="https://github.com/discourse/discourse-data-explorer">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=discourse&repo=discourse-data-explorer&theme=dark&border_color=333333" />
-</a>
-<a href="https://github.com/manimcommunity/manim">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=manimcommunity&repo=manim&theme=dark&border_color=333333" />
-</a>
-<a href="https://github.com/questdb/questdb">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/pin?username=questdb&repo=questdb&theme=dark&border_color=333333" />
-</a>
+- [Discourse](https://github.com/discourse/discourse): A platform for community discussion. Free, open, simple.
+- [Discourse - Data Explorer](https://github.com/discourse/discourse-data-explorer): SQL queries for admins in Discourse.
+- [Manim](https://github.com/manimcommunity/manim): A community-maintained Python framework for creating mathematical animations.
+- [QuestDB](https://github.com/questdb/questdb): An open source SQL database designed to process time series data, faster.
