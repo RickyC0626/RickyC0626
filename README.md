@@ -1,11 +1,6 @@
 # Welcome to my profile!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rickyc0626.vercel.app/api/top-langs/?username=rickyc0626&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,jupyter%20notebook,css,scss" />
-</a>
+![Metrics](github-metrics.svg)
 
 ## Projects I'm currently working on
 
