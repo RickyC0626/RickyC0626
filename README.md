@@ -2,6 +2,7 @@
 
 ### Ongoing projects
 
+- [qoi.js](https://github.com/RickyC0626/qoi.js): QOI codec written in JavaScript
 - [NEO Dashboard](https://github.com/rickyc0626/neo-dashboard): A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API.
 - [Skwash](https://github.com/rickyc0626/skwash): A homegrown issue tracker designed to help you squash bugs.
 - [Vibrainium](https://github.com/rickyc0626/vibrainium): A forum like StackOverflow for you and your future self.
