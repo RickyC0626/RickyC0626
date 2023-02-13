@@ -1,5 +1,3 @@
-![Metrics](github-metrics.svg)
-
 ### Ongoing projects
 - [Skwash](https://github.com/rickyc0626/skwash): A homegrown issue tracker designed to help you squash bugs.
 - [NEO Dashboard](https://github.com/rickyc0626/neo-dashboard): A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API.
