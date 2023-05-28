@@ -2,8 +2,8 @@
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="5">Personal Organizations</th>
-      <th align="center" colspan="2">Team Organizations</th>
+      <th align="center" colspan="5">🏡 Personal</th>
+      <th align="center" colspan="2">🏢 Team</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +59,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="2">Active Projects</th>
+      <th align="center" colspan="2">🚀 Active Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -93,7 +93,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="2">Projects On  Hold</th>
+      <th align="center" colspan="2">🛑 Projects On  Hold</th>
     </tr>
   </thead>
   <tbody>
@@ -122,7 +122,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="2">Project Ideas</th>
+      <th align="center" colspan="2">💡 Project Ideas</th>
     </tr>
   </thead>
   <tbody>
@@ -140,7 +140,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="2">Open Source Contributions</th>
+      <th align="center" colspan="2">🏭 Open Source Contributions</th>
     </tr>
   </thead>
   <tbody>
