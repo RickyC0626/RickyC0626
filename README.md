@@ -1,11 +1,11 @@
 <div>
   <h1 align="center">✨ Welcome! 🌌</h1>
-  <h2 align="center">Organization Directory</h2>
+  <h2>Organization Directory</h2>
   <table>
     <thead>
       <tr>
-        <td align="center"><b>Personal</b></td>
-        <td align="center"><b>Team</b></td>
+        <th align="center" colspan="2">Personal</th>
+        <th align="center">Team</th>
       </tr>
     </thead>
     <tbody>
@@ -13,13 +13,19 @@
         <td>
           <a href="https://github.com/RickyC0626-forks" title="Forked" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Forked Projects</span>
+            <span>&nbsp; Forked Projects</span>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span>&nbsp; Experiments</span>
           </a>
         </td>
         <td>
           <a href="https://github.com/skelenet" title="Skelenet Labs" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/86542896?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Skelenet Labs</span>
+            <span>&nbsp; Skelenet Labs</span>
           </a>
         </td>
       </tr>
@@ -27,13 +33,19 @@
         <td>
           <a href="https://github.com/RickyC0626-archive" title="Archived" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Archived Projects</span>
+            <span>&nbsp; Archived Projects</span>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span>&nbsp; Boilerplates</span>
           </a>
         </td>
         <td>
           <a href="https://github.com/Aries-Network" title="Aries Network" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Aries Network</span>
+            <span>&nbsp; Aries Network</span>
           </a>
         </td>
       </tr>
@@ -41,23 +53,7 @@
         <td>
           <a href="https://github.com/RickyC0626-gh-pages" title="Deployed" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Deployed Pages</span>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
-            <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Experiments</span>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
-            <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" style="vertical-align: middle;" width="50">
-            <span style="margin-left: 0.5rem">Boilerplates</span>
+            <span>&nbsp; Deployed Pages</span>
           </a>
         </td>
       </tr>
