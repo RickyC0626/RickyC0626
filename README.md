@@ -1,44 +1,58 @@
 <div>
   <h1 align="center">✨ Welcome! 🌌</h1>
-  <h2>Organization Directory</h2>
-  <div style="display: flex; gap: 2rem;">
+  <h2 align="center">Organization Directory</h2>
+  <div style="display: flex; gap: 4rem; justify-content: center;">
     <div>
       <h3>Personal</h3>
-      <div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 1rem;">
-        <a href="https://github.com/RickyC0626-forks" title="Forked" target="_blank" rel="noopener noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" style="vertical-align: middle;" width="50">
-          <span style="margin-left: 0.5rem">Forked Projects</span>
-        </a>
-        <a href="https://github.com/RickyC0626-archive" title="Archived" target="_blank" rel="noopener noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" style="vertical-align: middle;" width="50">
-          <span style="margin-left: 0.5rem">Archived Projects</span>
-        </a>
-        <a href="https://github.com/RickyC0626-gh-pages" title="Deployed" target="_blank" rel="noopener noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" style="vertical-align: middle;" width="50">
-          <span style="margin-left: 0.5rem">Deployed Pages</span>
-        </a>
-        <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" style="vertical-align: middle;" width="50">
-          <span style="margin-left: 0.5rem">Experiments</span>
-        </a>
-        <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" style="vertical-align: middle;" width="50">
-          <span style="margin-left: 0.5rem">Boilerplates</span>
-        </a>
-      </div>
+      <ul style="padding: 0; list-style-type: none;">
+        <li>
+          <a href="https://github.com/RickyC0626-forks" title="Forked" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Forked Projects</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/RickyC0626-archive" title="Archived" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Archived Projects</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/RickyC0626-gh-pages" title="Deployed" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Deployed Pages</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Experiments</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Boilerplates</span>
+          </a>
+        </li>
+      </ul>
     </div>
     <div>
       <h3>Team</h3>
-      <div style="display: grid;">
+      <ul style="padding: 0; list-style-type: none;">
+        <li>
           <a href="https://github.com/skelenet" title="Skelenet Labs" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/86542896?s=200&v=4" style="vertical-align: middle;" width="50">
             <span style="margin-left: 0.5rem">Skelenet Labs</span>
           </a>
+        </li>
+        <li>
           <a href="https://github.com/Aries-Network" title="Aries Network" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" style="vertical-align: middle;" width="50">
             <span style="margin-left: 0.5rem">Aries Network</span>
           </a>
-      </div>
+        </li>
+      </ul>
     </div>
   </div>
 </div>
