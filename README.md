@@ -1,10 +1,9 @@
 <h1 align="center">✨ Welcome! 🌌</h1>
-<h2>Organization Directory</h2>
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="5">Personal</th>
-      <th align="center" colspan="2">Team</th>
+      <th align="center" colspan="5"><code>orgs.PERSONAL</code></th>
+      <th align="center" colspan="2"><code>orgs.TEAM</code></th>
     </tr>
   </thead>
   <tbody>
@@ -57,22 +56,91 @@
   </tbody>
 </table>
 
-## Ongoing projects
-- [Skwash](https://github.com/rickyc0626/skwash): A homegrown issue tracker designed to help you squash bugs.
-- [NEO Dashboard](https://github.com/rickyc0626/neo-dashboard): A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API.
-
-## Projects on hold
-- [Vibrainium](https://github.com/rickyc0626/vibrainium): A forum like StackOverflow for you and your future self.
-- [qoi.js](https://github.com/RickyC0626/qoi.js): QOI codec written in JavaScript
-
-## Planned projects
-- E-commerce site using payment processing APIs ([Stripe](https://stripe.com/)), fully functional shopping experience
-- Something to do with plants, botany
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="2"><code>projects.IN_PROGRESS</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/rickyc0626/skwash" title="rickyc0626/skwash">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=skwash&theme=github_dark_dimmed">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rickyc0626/vozel" title="rickyc0626/vozel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=vozel&theme=github_dark_dimmed">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/personalgpt/personalgpt-ui" title="personalgpt/personalgpt-ui">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=personalgpt&repo=personalgpt-ui&theme=github_dark_dimmed">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/personalgpt/personalgpt-server" title="personalgpt/personalgpt-server">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=personalgpt&repo=personalgpt-server&theme=github_dark_dimmed">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>
     <tr>
-      <th align="center" colspan="2">Open-source Contributions</th>
+      <th align="center" colspan="2"><code>projects.ON_HOLD</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/rickyc0626/neo-dashboard" title="rickyc0626/neo-dashboard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=neo-dashboard&theme=github_dark_dimmed">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rickyc0626/vibrainium" title="rickyc0626/vibrainium">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=vibrainium&theme=github_dark_dimmed">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/rickyc0626/qoi.js" title="rickyc0626/qoi.js">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=qoi.js&theme=github_dark_dimmed">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="2"><code>projects.PLANNED</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience
+      </td>
+      <td>
+        Something to do with plants, botany
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="2"><code>projects.OPEN_SOURCE</code></th>
     </tr>
   </thead>
   <tbody>
