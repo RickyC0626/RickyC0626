@@ -1,3 +1,48 @@
+<div>
+  <h1 align="center">✨ Welcome! 🌌</h1>
+  <h2>Organization Directory</h2>
+  <div style="display: flex; gap: 2rem;">
+    <div>
+      <h3>Personal</h3>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 1rem;">
+        <a href="https://github.com/RickyC0626-forks" title="Forked" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" style="vertical-align: middle;" width="50">
+          <span style="margin-left: 0.5rem">Forked Projects</span>
+        </a>
+        <a href="https://github.com/RickyC0626-archive" title="Archived" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" style="vertical-align: middle;" width="50">
+          <span style="margin-left: 0.5rem">Archived Projects</span>
+        </a>
+        <a href="https://github.com/RickyC0626-gh-pages" title="Deployed" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" style="vertical-align: middle;" width="50">
+          <span style="margin-left: 0.5rem">Deployed Pages</span>
+        </a>
+        <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" style="vertical-align: middle;" width="50">
+          <span style="margin-left: 0.5rem">Experiments</span>
+        </a>
+        <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" style="vertical-align: middle;" width="50">
+          <span style="margin-left: 0.5rem">Boilerplates</span>
+        </a>
+      </div>
+    </div>
+    <div>
+      <h3>Team</h3>
+      <div style="display: grid;">
+          <a href="https://github.com/skelenet" title="Skelenet Labs" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/86542896?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Skelenet Labs</span>
+          </a>
+          <a href="https://github.com/Aries-Network" title="Aries Network" target="_blank" rel="noopener noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" style="vertical-align: middle;" width="50">
+            <span style="margin-left: 0.5rem">Aries Network</span>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 ### Ongoing projects
 - [Skwash](https://github.com/rickyc0626/skwash): A homegrown issue tracker designed to help you squash bugs.
 - [NEO Dashboard](https://github.com/rickyc0626/neo-dashboard): A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API.
