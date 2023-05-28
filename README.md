@@ -10,38 +10,47 @@
     </thead>
     <tbody>
       <tr>
-        <td>
+        <td align="center"><b>Forks</b></td>
+        <td align="center"><b>Archive</b></td>
+        <td align="center"><b>Deployed</b></td>
+        <td align="center"><b>Experiments</b></td>
+        <td align="center"><b>Boilerplates</b></td>
+        <td align="center"><b>Skelenet</b></td>
+        <td align="center"><b>Ariesnet</b></td>
+      </tr>
+      <tr>
+        <td align="center">
           <a href="https://github.com/RickyC0626-forks" title="Forked Projects" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
+        <td align="center">
           <a href="https://github.com/RickyC0626-archive" title="Archived Projects" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
+        <td align="center">
           <a href="https://github.com/RickyC0626-gh-pages" title="Deployed Pages" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
+        <td align="center">
           <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
+        <td align="center">
           <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
+        <td align="center">
           <a href="https://github.com/skelenet" title="Skelenet Labs" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/86542896?s=200&v=4" width="50">
           </a>
         </td>
-        <td>
-          <a href="https://github.com/Aries-Network" title="Aries Network" target="_blank" rel="noopener noreferrer">
+        <td align="center">
+          <a href="https://github.com/ariesnet" title="Aries Network" target="_blank" rel="noopener noreferrer">
             <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" width="50">
           </a>
         </td>
