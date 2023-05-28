@@ -19,37 +19,37 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/RickyC0626-forks" title="Forked Projects" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/RickyC0626-forks" title="Forked Projects">
           <img src="https://avatars.githubusercontent.com/u/121321200?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/RickyC0626-archive" title="Archived Projects" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/RickyC0626-archive" title="Archived Projects">
           <img src="https://avatars.githubusercontent.com/u/121328201?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/RickyC0626-gh-pages" title="Deployed Pages" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/RickyC0626-gh-pages" title="Deployed Pages">
           <img src="https://avatars.githubusercontent.com/u/121332196?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/RickyC0626-experiments" title="Experiments" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/RickyC0626-experiments" title="Experiments">
           <img src="https://avatars.githubusercontent.com/u/121334105?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/RickyC0626-boilerplate" title="Boilerplates">
           <img src="https://avatars.githubusercontent.com/u/121332704?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/skelenet" title="Skelenet Labs" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/skelenet" title="Skelenet Labs">
           <img src="https://avatars.githubusercontent.com/u/86542896?s=200&v=4" width="50">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ariesnet" title="Aries Network" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ariesnet" title="Aries Network">
           <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" width="50">
         </a>
       </td>
@@ -78,31 +78,31 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/boardgameio/boardgame.io" title="boardgameio/boardgame.io" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/boardgameio/boardgame.io" title="boardgameio/boardgame.io">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=github_dark_dimmed">
         </a>
       </td>
       <td>
-        <a href="https://github.com/questdb/questdb" title="questdb/questdb" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/questdb/questdb" title="questdb/questdb">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=questdb&repo=questdb&theme=github_dark_dimmed">
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/manimcommunity/manim" title="ManimCommunity/manim" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/manimcommunity/manim" title="ManimCommunity/manim">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=manimcommunity&repo=manim&theme=github_dark_dimmed">
         </a>
       </td>
       <td>
-        <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=discourse&repo=discourse-data-explorer&theme=github_dark_dimmed">
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/discourse/discourse" title="discourse/discourse" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/discourse/discourse" title="discourse/discourse">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=discourse&repo=discourse&theme=github_dark_dimmed">
         </a>
       </td>
