@@ -62,7 +62,7 @@
   </tbody>
 </table>
 
-<span>🔥 In Progress | 🛑 On Hold | 💡 Planned</span>
+<span>🔥 In Progress | 🛑 On Hold | 💡 Idea</span>
 
 <table>
   <thead>
@@ -205,23 +205,41 @@
         <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vibrainium?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
     <tr>
-      <th align="center" colspan="2">💡 Project Ideas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
+      <td align="center" colspan="2">
         E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience
       </td>
-      <td>
+      <td align="center" title="Idea">💡</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         Something to do with plants, botany
       </td>
+      <td align="center" title="Idea">💡</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        Physics engine that simulates centrifugal force via O'Neill cylinder or torus
+      </td>
+      <td align="center" title="Idea">💡</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions
+      </td>
+      <td align="center" title="Idea">💡</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
   </tbody>
 </table>
