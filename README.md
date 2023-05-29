@@ -3,7 +3,7 @@
   <thead>
     <tr>
       <th align="center" colspan="5">🏡 Personal</th>
-      <th align="center" colspan="2">🏢 Team</th>
+      <th align="center" colspan="3">🏢 Team</th>
     </tr>
   </thead>
   <tbody>
@@ -15,6 +15,7 @@
       <td align="center"><b>Boilerplates</b></td>
       <td align="center"><b>Skelenet</b></td>
       <td align="center"><b>Ariesnet</b></td>
+      <td align="center"><b>Civil Engineers</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -50,6 +51,11 @@
       <td align="center">
         <a href="https://github.com/ariesnet" title="Aries Network">
           <img src="https://avatars.githubusercontent.com/u/101829519?s=200&v=4" width="50">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Civil-Engineers" title="Civil Engineers">
+          <img src="https://avatars.githubusercontent.com/u/109439685?s=200&v=4" width="50">
         </a>
       </td>
     </tr>
