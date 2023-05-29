@@ -151,33 +151,58 @@
         <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/personalgpt/personalgpt-server?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
     <tr>
-      <th align="center" colspan="2">🛑 Projects On  Hold</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/rickyc0626/neo-dashboard" title="rickyc0626/neo-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=neo-dashboard&theme=github_dark_dimmed">
+          <span>NEO Dashboard</span>
         </a>
       </td>
-      <td>
-        <a href="https://github.com/rickyc0626/vibrainium" title="rickyc0626/vibrainium">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=vibrainium&theme=github_dark_dimmed">
-        </a>
+      <td align="center">A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API</td>
+      <td align="center" title="On Hold">🛑</td>
+      <td align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/neo-dashboard?color=gold&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/neo-dashboard?color=forestgreen&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/neo-dashboard?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/rickyc0626/qoi.js" title="rickyc0626/qoi.js">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickyc0626&repo=qoi.js&theme=github_dark_dimmed">
+          <span>qoi.js</span>
         </a>
+      </td>
+      <td align="center">QOI codec written in JavaScript, a faster alternative to PNG</td>
+      <td align="center" title="On Hold">🛑</td>
+      <td align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/qoi.js?color=gold&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/qoi.js?color=forestgreen&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/qoi.js?color=blueviolet&style=flat-square&labelColor=black">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rickyc0626/vibrainium" title="rickyc0626/vibrainium">
+          <span>Vibrainium</span>
+        </a>
+      </td>
+      <td align="center">A forum like StackOverflow for you and your future self</td>
+      <td align="center" title="On Hold">🛑</td>
+      <td align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/vibrainium?color=gold&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/vibrainium?color=forestgreen&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vibrainium?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
   </tbody>
