@@ -63,6 +63,51 @@
 </table>
 
 <table>
+  <span>🔥 In Progress | 🛑 On Hold | 💡 Planned</span>
+  <thead>
+    <tr>
+      <th align="center" colspan="10">📚 Projects</th>
+    </tr>
+    <tr>
+      <th align="center">Name</th>
+      <th align="center">Description</th>
+      <th align="center">Status</th>
+      <th align="center">Stars</th>
+      <th align="center">Issues</th>
+      <th align="center">Pull Requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rickyc0626/skwash" title="rickyc0626/skwash">
+          <span>Skwash</span>
+        </a>
+      </td>
+      <td align="center">A homegrown issue tracker designed to help you squash bugs</td>
+      <td align="center" title="In Progress">🔥</td>
+      <td align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=E3B341&style=flat-square">
+      </td>
+      <td align="center">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=238636&style=flat-square">
+      </td>
+      <td align="center">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=8957E5&style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
   <thead>
     <tr>
       <th align="center" colspan="2">🚀 Active Projects</th>
