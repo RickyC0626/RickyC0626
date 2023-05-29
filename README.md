@@ -88,13 +88,13 @@
       <td align="center">A homegrown issue tracker designed to help you squash bugs</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/stargazers">
       </td>
       <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/issues">
       </td>
       <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/pulls">
       </td>
     </tr>
     <tr>
