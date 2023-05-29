@@ -62,8 +62,9 @@
   </tbody>
 </table>
 
+<span>🔥 In Progress | 🛑 On Hold | 💡 Planned</span>
+
 <table>
-  <span>🔥 In Progress | 🛑 On Hold | 💡 Planned</span>
   <thead>
     <tr>
       <th align="center" colspan="10">📚 Projects</th>
@@ -87,22 +88,32 @@
       <td align="center">A homegrown issue tracker designed to help you squash bugs</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=E3B341&style=flat-square">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black">
       </td>
       <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=238636&style=flat-square">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black">
       </td>
       <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=8957E5&style=flat-square">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">
+        <a href="https://github.com/rickyc0626/vozel" title="rickyc0626/vozel">
+          <span>Vozel</span>
+        </a>
+      </td>
+      <td align="center">A voxel engine made by someone crazy enough to do it from scratch</td>
+      <td align="center" title="In Progress">🔥</td>
+      <td align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/vozel?color=gold&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/vozel?color=forestgreen&style=flat-square&labelColor=black">
+      </td>
+      <td align="center">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vozel?color=blueviolet&style=flat-square&labelColor=black">
+      </td>
     </tr>
   </tbody>
 </table>
