@@ -270,8 +270,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=discourse&repo=discourse-data-explorer&theme=github_dark_dimmed">
+        <a href="https://github.com/ManimCommunity/ManimPango" title="ManimCommunity/ManimPango">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=manimcommunity&repo=manimpango&theme=github_dark_dimmed">
         </a>
       </td>
     </tr>
@@ -279,6 +279,11 @@
       <td>
         <a href="https://github.com/discourse/discourse" title="discourse/discourse">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=discourse&repo=discourse&theme=github_dark_dimmed">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=discourse&repo=discourse-data-explorer&theme=github_dark_dimmed">
         </a>
       </td>
     </tr>
