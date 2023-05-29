@@ -2,6 +2,7 @@
 
 <details>
   <summary>Organization Directory</summary>
+  <br />
   <table>
     <thead>
       <tr>
@@ -68,8 +69,8 @@
 
 <details>
   <summary>Personal Projects</summary>
+  <br />
   <span>🔥 In Progress | 🛑 On Hold | 💡 Idea</span>
-
   <table>
     <thead>
       <tr>
@@ -253,6 +254,7 @@
 
 <details>
   <summary>Open Source Contributions</summary>
+  <br />
   <table>
     <thead>
       <tr>
