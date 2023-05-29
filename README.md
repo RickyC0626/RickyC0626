@@ -88,13 +88,13 @@
       <td align="center">A homegrown issue tracker designed to help you squash bugs</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/stargazers">
+        <object data="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/stargazers"></object>
       </td>
       <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/issues">
+        <object data="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/issues"></object>
       </td>
       <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/pulls">
+        <object data="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/skwash/pulls"></object>
       </td>
     </tr>
     <tr>
@@ -106,13 +106,13 @@
       <td align="center">A voxel engine made by someone crazy enough to do it from scratch</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/vozel?color=gold&style=flat-square&labelColor=black">
+        <object data="https://img.shields.io/github/stars/rickyc0626/vozel?color=gold&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/vozel/stargazers"></object>
       </td>
       <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/vozel?color=forestgreen&style=flat-square&labelColor=black">
+        <object data="https://img.shields.io/github/issues/rickyc0626/vozel?color=forestgreen&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/vozel/issues"></object>
       </td>
       <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vozel?color=blueviolet&style=flat-square&labelColor=black">
+        <object data="https://img.shields.io/github/issues-pr/rickyc0626/vozel?color=blueviolet&style=flat-square&labelColor=black&link=https://github.com/rickyc0626/vozel/pulls"></object>
       </td>
     </tr>
   </tbody>
