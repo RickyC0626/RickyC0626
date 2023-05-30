@@ -289,3 +289,33 @@
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" colspan="10">🎮 Game Jams</th>
+    </tr>
+    <tr>
+      <th align="center">Game</th>
+      <th align="center">Description</th>
+      <th align="center">Jam Name</th>
+      <th align="center">Theme</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Civil-Engineers/chopping-block" title="Civil-Engineers/chopping-block">
+          <span>Chopping Block</span>
+        </a>
+      </td>
+      <td align="center">An auto dice-battler game where you try to survive by customizing die faces</td>
+      <td align="center">
+        <a href="https://itch.io/jam/gmtk-jam-2022">
+          <span>GMTK Game Jam 2022</span>
+        </a>
+      </td>
+      <td align="center">Roll of the Dice</td>
+    </tr>
+  </tbody>
+</table>
