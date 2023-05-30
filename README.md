@@ -63,7 +63,7 @@
   </tbody>
 </table>
 
-<span>🔥 In Progress | 🛑 On Hold | 💡 Idea</span>
+<span>🔥 In Progress | 🛑 On Hold | 💭 Planned | 💡 Idea</span>
 <table>
   <thead>
     <tr>
