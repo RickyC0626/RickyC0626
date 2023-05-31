@@ -73,9 +73,7 @@
       <th align="center">Name</th>
       <th align="center">Description</th>
       <th align="center">Status</th>
-      <th align="center">Stars</th>
-      <th align="center">Issues</th>
-      <th align="center">Pull Requests</th>
+      <th align="center">Technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -88,13 +86,14 @@
       <td align="center">A homegrown issue tracker designed to help you squash bugs</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/skwash?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/skwash?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/skwash?color=blueviolet&style=flat-square&labelColor=black">
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+        <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" />
+        <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white" />
+        <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&logoColor=C21325" />
+        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-black?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
       </td>
     </tr>
     <tr>
@@ -106,13 +105,6 @@
       <td align="center">A voxel engine made by someone crazy enough to do it from scratch</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/vozel?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/vozel?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vozel?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
@@ -124,13 +116,6 @@
       <td align="center">A feature-rich alternative to ChatGPT and TypingMind</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/personalgpt/personalgpt?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/personalgpt/personalgpt?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/personalgpt/personalgpt?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
@@ -142,13 +127,6 @@
       <td align="center">A SpaceX-themed dashboard for displaying near-Earth objects, using NASA's NeoWs API</td>
       <td align="center" title="On Hold">🛑</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/neo-dashboard?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/neo-dashboard?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/neo-dashboard?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
@@ -160,13 +138,6 @@
       <td align="center">QOI codec written in JavaScript, a faster alternative to PNG</td>
       <td align="center" title="On Hold">🛑</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/qoi.js?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/qoi.js?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/qoi.js?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
@@ -178,13 +149,6 @@
       <td align="center">A forum like StackOverflow for you and your future self</td>
       <td align="center" title="On Hold">🛑</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/rickyc0626/vibrainium?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/rickyc0626/vibrainium?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rickyc0626/vibrainium?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
@@ -193,16 +157,12 @@
       </td>
       <td align="center" title="Idea">💡</td>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         Something to do with plants, botany
       </td>
       <td align="center" title="Idea">💡</td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
@@ -211,16 +171,12 @@
       </td>
       <td align="center" title="Idea">💡</td>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions
       </td>
       <td align="center" title="Idea">💡</td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center"></td>
     </tr>
   </tbody>
