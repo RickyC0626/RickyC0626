@@ -79,6 +79,24 @@
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://github.com/personalgpt/personalgpt" title="personalgpt/personalgpt">
+          <span>PersonalGPT</span>
+        </a>
+      </td>
+      <td align="center">A feature-rich alternative to ChatGPT and TypingMind</td>
+      <td align="center" title="In Progress">🔥</td>
+      <td align="center">
+        <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+        <img alt="Electron" src="https://img.shields.io/badge/-Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F" />
+        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img alt="Redux" src="https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/rickyc0626/skwash" title="rickyc0626/skwash">
           <span>Skwash</span>
         </a>
@@ -108,24 +126,6 @@
         <img alt="C++" src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
         <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-0d1117?style=for-the-badge&logo=opengl&logoColor=5586A4" />
         <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/personalgpt/personalgpt" title="personalgpt/personalgpt">
-          <span>PersonalGPT</span>
-        </a>
-      </td>
-      <td align="center">A feature-rich alternative to ChatGPT and TypingMind</td>
-      <td align="center" title="In Progress">🔥</td>
-      <td align="center">
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img alt="Electron" src="https://img.shields.io/badge/-Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F" />
-        <img alt="React" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="Redux" src="https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
-        <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-        <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991" />
       </td>
     </tr>
     <tr>
