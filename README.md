@@ -148,6 +148,10 @@
       <td align="center">QOI codec written in JavaScript, a faster alternative to PNG</td>
       <td align="center" title="On Hold">🛑</td>
       <td align="center">
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+        <img alt="Sharp" src="https://img.shields.io/badge/-Sharp-0d1117?style=for-the-badge&logo=sharp&logoColor=99CC00" />
+        <img alt="Jest" src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=jest&logoColor=C21325" />
       </td>
     </tr>
     <tr>
