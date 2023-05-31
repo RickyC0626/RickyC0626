@@ -105,6 +105,9 @@
       <td align="center">A voxel engine made by someone crazy enough to do it from scratch</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
+        <img alt="C++" src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+        <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-0d1117?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+        <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
       </td>
     </tr>
     <tr>
