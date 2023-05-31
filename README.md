@@ -117,38 +117,20 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/personalgpt/personalgpt-ui" title="personalgpt/personalgpt-ui">
-          <span>PersonalGPT (UI)</span>
+        <a href="https://github.com/personalgpt/personalgpt" title="personalgpt/personalgpt">
+          <span>PersonalGPT</span>
         </a>
       </td>
       <td align="center">A feature-rich alternative to ChatGPT and TypingMind</td>
       <td align="center" title="In Progress">🔥</td>
       <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/personalgpt/personalgpt-ui?color=gold&style=flat-square&labelColor=black">
+        <img alt="Stars" src="https://img.shields.io/github/stars/personalgpt/personalgpt?color=gold&style=flat-square&labelColor=black">
       </td>
       <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/personalgpt/personalgpt-ui?color=forestgreen&style=flat-square&labelColor=black">
+        <img alt="Issues" src="https://img.shields.io/github/issues/personalgpt/personalgpt?color=forestgreen&style=flat-square&labelColor=black">
       </td>
       <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/personalgpt/personalgpt-ui?color=blueviolet&style=flat-square&labelColor=black">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/personalgpt/personalgpt-server" title="personalgpt/personalgpt-server">
-          <span>PersonalGPT (Server)</span>
-        </a>
-      </td>
-      <td align="center">Server for PersonalGPT UI</td>
-      <td align="center" title="In Progress">🔥</td>
-      <td align="center">
-        <img alt="Stars" src="https://img.shields.io/github/stars/personalgpt/personalgpt-server?color=gold&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Issues" src="https://img.shields.io/github/issues/personalgpt/personalgpt-server?color=forestgreen&style=flat-square&labelColor=black">
-      </td>
-      <td align="center">
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/personalgpt/personalgpt-server?color=blueviolet&style=flat-square&labelColor=black">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/personalgpt/personalgpt?color=blueviolet&style=flat-square&labelColor=black">
       </td>
     </tr>
     <tr>
