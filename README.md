@@ -191,12 +191,10 @@
     </tr>
   </thead>
   <tbody>
-        <tr>
+    <tr>
       <td align="center">
         E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience
       </td>
-    </tr>
-    <tr>
       <td align="center">
         Something to do with plants, botany
       </td>
@@ -205,8 +203,6 @@
       <td align="center">
         Physics engine that simulates centrifugal force via O'Neill cylinder or torus
       </td>
-    </tr>
-    <tr>
       <td align="center">
         Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions
       </td>
