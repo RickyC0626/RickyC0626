@@ -190,7 +190,7 @@
       <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
       <td align="center">
         <a href="https://externship.devpost.com">
-          <span>Tour of Duty - Orientation Hackathon (Externship)</span>
+          <span>Tour of Duty Externship - Orientation (2020)</span>
         </a>
       </td>
       <td align="center">
