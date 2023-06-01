@@ -69,11 +69,9 @@
 <details open>
   <summary><h2>📚 Projects</h2></summary>
   <span>🔥 In Progress | ⏸️ Paused | 💭 Planned</span>
+  <br/>
   <table>
     <thead>
-      <tr>
-        <th align="center" colspan="10">📚 Projects</th>
-      </tr>
       <tr>
         <th align="center">Name</th>
         <th align="center">Description</th>
@@ -181,45 +179,45 @@
   </table>
 </details>
 
-<table>
-  <thead>
-    <tr>
-      <th align="center" colspan="5">🛠️ Hackathons</th>
-    </tr>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Description</th>
-      <th align="center">Event Name</th>
-      <th align="center">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://devpost.com/software/neo-dashboard-z160cl" title="devpost/neo-dashboard">
-          <span>NEO Dashboard</span>
-        </a>
-        <br/>
-        <span><sub><b>🏆 1st place</b></sub></span>
-      </td>
-      <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
-      <td align="center">
-        <a href="https://externship.devpost.com">
-          <span>Tour of Duty Externship - Orientation (2020)</span>
-        </a>
-      </td>
-      <td align="center">
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img alt="React" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="Redux" src="https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
-        <img alt="Axios" src="https://img.shields.io/badge/-Axios-0d1117?style=for-the-badge&logo=axios&logoColor=5A29E4" />
-        <img alt="Sass" src="https://img.shields.io/badge/-Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-        <img alt="Django" src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<details open>
+  <summary><h2>🛠️ Hackathons</h2></summary>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Project</th>
+        <th align="center">Description</th>
+        <th align="center">Event Name</th>
+        <th align="center">Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://devpost.com/software/neo-dashboard-z160cl" title="devpost/neo-dashboard">
+            <span>NEO Dashboard</span>
+          </a>
+          <br/>
+          <span><sub><b>🏆 1st place</b></sub></span>
+        </td>
+        <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
+        <td align="center">
+          <a href="https://externship.devpost.com">
+            <span>Tour of Duty Externship - Orientation (2020)</span>
+          </a>
+        </td>
+        <td align="center">
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+          <img alt="React" src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img alt="Redux" src="https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
+          <img alt="Axios" src="https://img.shields.io/badge/-Axios-0d1117?style=for-the-badge&logo=axios&logoColor=5A29E4" />
+          <img alt="Sass" src="https://img.shields.io/badge/-Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" />
+          <img alt="Python" src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+          <img alt="Django" src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <table>
   <thead>
