@@ -63,7 +63,7 @@
   </tbody>
 </table>
 
-<span>🔥 In Progress | 🛑 On Hold | 💭 Planned | 💡 Idea</span>
+<span>🔥 In Progress | 🛑 On Hold | ✅ Completed | 💭 Planned</span>
 <table>
   <thead>
     <tr>
@@ -185,28 +185,36 @@
       <td align="center" colspan="2">
         E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience
       </td>
-      <td align="center" title="Idea">💡</td>
+      <td align="center">
+        <img alt="Idea" src="https://img.shields.io/badge/-💡%20Idea-0d1117?style=flat" />
+      </td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         Something to do with plants, botany
       </td>
-      <td align="center" title="Idea">💡</td>
+      <td align="center">
+        <img alt="Idea" src="https://img.shields.io/badge/-💡%20Idea-0d1117?style=flat" />
+      </td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         Physics engine that simulates centrifugal force via O'Neill cylinder or torus
       </td>
-      <td align="center" title="Idea">💡</td>
+      <td align="center">
+        <img alt="Idea" src="https://img.shields.io/badge/-💡%20Idea-0d1117?style=flat" />
+      </td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions
       </td>
-      <td align="center" title="Idea">💡</td>
+      <td align="center">
+        <img alt="Idea" src="https://img.shields.io/badge/-💡%20Idea-0d1117?style=flat" />
+      </td>
       <td align="center"></td>
     </tr>
   </tbody>
