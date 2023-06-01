@@ -251,32 +251,6 @@
   </table>
 </details>
 
-<table>
-  <thead>
-    <tr>
-      <th align="center" colspan="5">💡 Project Ideas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience
-      </td>
-      <td align="center">
-        Something to do with plants, botany
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Physics engine that simulates centrifugal force via O'Neill cylinder or torus
-      </td>
-      <td align="center">
-        Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <details open>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
@@ -299,6 +273,16 @@
       <img src="https://github-readme-stats-rickyc0626.vercel.app//api/pin/?username=discourse&repo=discourse-data-explorer&theme=github_dark_dimmed">
     </a>
   </div>
+</details>
+
+<details>
+  <summary><h2>💡 Project Ideas</h2></summary>
+    <ul>
+      <li>E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience</li>
+      <li>Something to do with plants, botany</li>
+      <li>Physics engine that simulates centrifugal force via O'Neill cylinder or torus</li>
+      <li>Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions</li>
+    </ul>
 </details>
 
 <details>
