@@ -323,3 +323,10 @@
   </tbody>
 </table>
 
+<details>
+  <summary><h2>📊 Profile Stats</h2></summary>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rickyc0626&theme=dark&hide_border=true">
+  </a>
+</details>
