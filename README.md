@@ -63,7 +63,7 @@
   </tbody>
 </table>
 
-<span>🔥 In Progress | 🛑 On Hold | ✅ Completed | 💭 Planned</span>
+<span>🔥 In Progress | ⏸️ Paused | 💭 Planned</span>
 <table>
   <thead>
     <tr>
@@ -145,10 +145,12 @@
     </tr>
     <tr>
       <td align="center">
-        <span>Neoviz</span>
+        <a href="https://github.com/RickyC0626/neoviz" title="rickyc0626/neoviz">
+          <span>Neoviz</span>
+        </a>
       </td>
-      <td align="center">NEO Dashboard v2</td>
-      <td align="center" title="Planned">💭</td>
+      <td align="center">A reimagined NEO Dashboard, a visualization tool for near-Earth objects</td>
+      <td align="center" title="Paused">⏸️</td>
       <td align="center">
       </td>
     </tr>
