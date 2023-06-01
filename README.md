@@ -163,12 +163,21 @@
     </tr>
     <tr>
       <td align="center">
+        <span>Neoviz</span>
+      </td>
+      <td align="center">NEO Dashboard v2</td>
+      <td align="center" title="Planned">💭</td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/rickyc0626/vibrainium" title="rickyc0626/vibrainium">
           <span>Vibrainium</span>
         </a>
       </td>
       <td align="center">A forum like StackOverflow for you and your future self</td>
-      <td align="center" title="On Hold">🛑</td>
+      <td align="center" title="Planned">💭</td>
       <td align="center">
       </td>
     </tr>
