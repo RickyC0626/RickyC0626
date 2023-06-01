@@ -184,7 +184,7 @@
         <a href="https://devpost.com/software/neo-dashboard-z160cl" title="devpost/neo-dashboard">
           <span>NEO Dashboard</span>
         </a>
-        <br/>
+        <br/><br/>
         <span><b>🏆 1st place</b></span>
       </td>
       <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
