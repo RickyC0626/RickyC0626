@@ -185,7 +185,7 @@
           <span>NEO Dashboard</span>
         </a>
         <br/>
-        <span><sub>🏆 1st place</sub></span>
+        <span><sub><b>🏆 1st place</b></sub></span>
       </td>
       <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
       <td align="center">
