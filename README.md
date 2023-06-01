@@ -184,8 +184,8 @@
         <a href="https://devpost.com/software/neo-dashboard-z160cl" title="devpost/neo-dashboard">
           <span>NEO Dashboard</span>
         </a>
-        <br/><br/>
-        <span><b>🏆 1st place</b></span>
+        <br/>
+        <span><sub><b>🏆 1st place</b></sub></span>
       </td>
       <td align="center">A SpaceX-themed dashboard for tracking near-Earth objects, using NASA's NeoWs API</td>
       <td align="center">
@@ -224,6 +224,8 @@
         <a href="https://github.com/Civil-Engineers/chopping-block" title="Civil-Engineers/chopping-block">
           <span>Chopping Block</span>
         </a>
+        <br/>
+        <span><sub><b>Top 16%</b></sub></span>
       </td>
       <td align="center">An auto dice-battler game where you try to survive by customizing die faces</td>
       <td align="center">
