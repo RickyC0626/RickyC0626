@@ -255,22 +255,22 @@
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
     <a href="https://github.com/boardgameio/boardgame.io" title="boardgameio/boardgame.io">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=dark&hide_border=true">
     </a>
     <a href="https://github.com/questdb/questdb" title="questdb/questdb">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=questdb&repo=questdb&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=questdb&repo=questdb&theme=dark&hide_border=true">
     </a>
     <a href="https://github.com/manimcommunity/manim" title="ManimCommunity/manim">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manim&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manim&theme=dark&hide_border=true">
     </a>
     <a href="https://github.com/ManimCommunity/ManimPango" title="ManimCommunity/ManimPango">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manimpango&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manimpango&theme=dark&hide_border=true">
     </a>
     <a href="https://github.com/discourse/discourse" title="discourse/discourse">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=discourse&repo=discourse&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=discourse&repo=discourse&theme=dark&hide_border=true">
     </a>
     <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app//api/pin/?username=discourse&repo=discourse-data-explorer&theme=github_dark_dimmed">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app//api/pin/?username=discourse&repo=discourse-data-explorer&theme=dark&hide_border=true">
     </a>
   </div>
 </details>
@@ -285,10 +285,13 @@
     </ul>
 </details>
 
-<details>
+<details open>
   <summary><h2>📊 Profile Stats</h2></summary>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rickyc0626&theme=dark&hide_border=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true">
   </a>
 </details>
