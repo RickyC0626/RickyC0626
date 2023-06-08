@@ -291,6 +291,7 @@
       <li>Something to do with plants, botany</li>
       <li>Physics engine that simulates centrifugal force via O'Neill cylinder or torus</li>
       <li>Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions</li>
+      <li>IPA-to-speech reader</li>
     </ul>
 </details>
 
