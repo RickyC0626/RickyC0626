@@ -292,6 +292,7 @@
       <li>Physics engine that simulates centrifugal force via O'Neill cylinder or torus</li>
       <li>Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions</li>
       <li>IPA-to-speech reader</li>
+      <li><a href="https://wip.co"><span>WIP.co</span></a> clone, but better</li>
     </ul>
 </details>
 
