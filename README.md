@@ -263,6 +263,15 @@
 <details open>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
+    <a href="https://github.com/liveblocks/liveblocks" title="liveblocks/liveblocks">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=liveblocks&repo=liveblocks&theme=dark&hide_border=true">
+    </a>
+    <a href="https://github.com/dotansimha/graphql-code-generator" title="dotansimha/graphql-code-generator">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-code-generator&theme=dark&hide_border=true">
+    </a>
+    <a href="https://github.com/dotansimha/graphql-yoga" title="dotansimha/graphql-yoga">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-yoga&theme=dark&hide_border=true">
+    </a>
     <a href="https://github.com/boardgameio/boardgame.io" title="boardgameio/boardgame.io">
       <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=dark&hide_border=true">
     </a>
