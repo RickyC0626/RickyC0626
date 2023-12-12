@@ -68,6 +68,8 @@
 
 ## 📚 Projects
 
+- 🧪 [**atomix**](https://github.com/RickyC0626/atomix)
+  - Interactive periodic table of elements
 - 🇵🇭 [**biro**](https://github.com/RickyC0626/biro)
   - A Bisaya-flavored programming language transpiled to C
 - 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js)
