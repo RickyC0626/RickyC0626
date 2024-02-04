@@ -1,5 +1,3 @@
-<h1 align="center">✨ Welcome! 🌌</h1>
-
 ## 📚 Projects
 
 - 🧪 [**atomix**](https://github.com/RickyC0626/atomix)
