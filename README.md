@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome! 🌌</h1>
 
-<details open>
+<!-- <details open>
   <summary><h2>🗺️ Organization Directory</h2></summary>
   <table>
     <thead>
@@ -64,7 +64,7 @@
       </tr>
     </tbody>
   </table>
-</details>
+</details> -->
 
 ## 📚 Projects
 
