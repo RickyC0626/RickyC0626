@@ -200,18 +200,6 @@
 </details>
 
 <details>
-  <summary><h2>💡 Project Ideas</h2></summary>
-    <ul>
-      <li>E-commerce site using payment processing APIs like <a href="https://stripe.com/"><span>Stripe</span></a>, fully functional shopping experience</li>
-      <li>Something to do with plants, botany</li>
-      <li>Physics engine that simulates centrifugal force via O'Neill cylinder or torus</li>
-      <li>Simulation engine that artifically evolves natural language, given a set of constraints, rules, mechanics, and social interactions</li>
-      <li>IPA-to-speech reader</li>
-      <li><a href="https://wip.co"><span>WIP.co</span></a> clone, but better</li>
-    </ul>
-</details>
-
-<details>
   <summary><h2>📊 Profile Stats</h2></summary>
 
   <a href="https://git.io/streak-stats">
