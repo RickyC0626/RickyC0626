@@ -60,47 +60,6 @@
 </details>
 
 <details open>
- <summary><h2>🎮 Game Jams</h2></summary>
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Game</th>
-        <th align="center">Description</th>
-        <th align="center">Jam Name</th>
-        <th align="center">Theme</th>
-        <th align="center">Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/Civil-Engineers/chopping-block" title="Civil-Engineers/chopping-block">
-            <span>Chopping Block</span>
-          </a>
-          <br/>
-          <span><sub><b>Top 16%</b></sub></span>
-        </td>
-        <td align="center">An auto dice-battler game where you try to survive by customizing die faces</td>
-        <td align="center">
-          <a href="https://itch.io/jam/gmtk-jam-2022">
-            <span>GMTK Game Jam 2022</span>
-          </a>
-        </td>
-        <td align="center">Roll of the Dice</td>
-        <td align="center">
-          <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-          <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-0d1117?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-          <img alt="Sass" src="https://img.shields.io/badge/-Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" />
-          <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-          <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-0d1117?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
-          <img alt="Vite" src="https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details open>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
     <a href="https://github.com/liveblocks/liveblocks" title="liveblocks/liveblocks">
