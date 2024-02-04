@@ -1,18 +1,13 @@
 ## 📚 Projects
 
 **Currently working on:**
-- 🎹 **skald**
-  - An interactive music notation editor and player, inspired by Musescore
-- 🐛 **skwash**
-  - A homegrown issue tracker designed to help you squash bugs
+- 🎹 **skald** - An interactive music notation editor and player, inspired by Musescore
+- 🐛 **skwash** - A homegrown issue tracker designed to help you squash bugs
 
 **Other projects:**
-- ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz)
-  - A visualization tool for near-Earth objects using data from NASA
-- 🧪 [**atomix**](https://github.com/RickyC0626/atomix)
-  - Interactive periodic table of elements
-- 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js)
-  - QOI codec written in JavaScript, a faster alternative to PNG
+- ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA
+- 🧪 [**atomix**](https://github.com/RickyC0626/atomix) - Interactive periodic table of elements
+- 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
 <!-- - 🇵🇭 [**biro**](https://github.com/RickyC0626/biro)
   - A Bisaya-flavored programming language transpiled to C -->
 <!-- - 🤖 [**PersonalGPT**](https://github.com/personalgpt/personalgpt) $\textsf{\color{orange} (on hiatus)}$
