@@ -21,31 +21,31 @@
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
     <a href="https://github.com/liveblocks/liveblocks" title="liveblocks/liveblocks">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=liveblocks&repo=liveblocks&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=liveblocks&repo=liveblocks&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/dotansimha/graphql-code-generator" title="dotansimha/graphql-code-generator">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-code-generator&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-code-generator&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/dotansimha/graphql-yoga" title="dotansimha/graphql-yoga">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-yoga&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=dotansimha&repo=graphql-yoga&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/boardgameio/boardgame.io" title="boardgameio/boardgame.io">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=boardgameio&repo=boardgame.io&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/questdb/questdb" title="questdb/questdb">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=questdb&repo=questdb&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=questdb&repo=questdb&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/manimcommunity/manim" title="ManimCommunity/manim">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manim&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manim&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/ManimCommunity/ManimPango" title="ManimCommunity/ManimPango">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manimpango&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=manimcommunity&repo=manimpango&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/discourse/discourse" title="discourse/discourse">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=discourse&repo=discourse&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=discourse&repo=discourse&theme=dark&hide_border=true&description_lines_count=2">
     </a>
     <a href="https://github.com/discourse/discourse-data-explorer" title="discourse/discourse-data-explorer">
-      <img src="https://github-readme-stats-rickyc0626.vercel.app//api/pin/?username=discourse&repo=discourse-data-explorer&theme=dark&hide_border=true">
+      <img src="https://github-readme-stats-rickyc0626.vercel.app//api/pin/?username=discourse&repo=discourse-data-explorer&theme=dark&hide_border=true&description_lines_count=2">
     </a>
   </div>
 </details>
