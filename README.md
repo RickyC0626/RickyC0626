@@ -218,6 +218,6 @@
     <img src="https://streak-stats.demolab.com?user=rickyc0626&theme=dark&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true&show=prs_merged_percentage">
   </a>
 </details>
