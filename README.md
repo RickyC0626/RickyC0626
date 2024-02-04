@@ -17,7 +17,7 @@
 <!-- - 🧠 [**Vibrainium**](https://github.com/rickyc0626/vibrainium) $\textsf{\color{red} (early planning stage)}$
   - A forum like StackOverflow for you and your future self -->
 
-<details open>
+<details>
   <summary><h2>🏭 Open Source Contributions</h2></summary>
   <div align="left">
     <a href="https://github.com/liveblocks/liveblocks" title="liveblocks/liveblocks">
