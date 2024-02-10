@@ -1,8 +1,8 @@
 ## 📚 Projects
 
 **Currently working on:**
-- 🎹 **skald** - An interactive music notation editor and player, inspired by Musescore
-- 🐛 **skwash** - A homegrown issue tracker designed to help you squash bugs
+- 🎹 [**skald**](https://github.com/rickyc0626/skald) - An interactive music notation editor and player, inspired by Musescore
+- 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - A homegrown issue tracker designed to help you squash bugs
 
 **Other projects:**
 - ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA
