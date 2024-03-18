@@ -1,13 +1,10 @@
 ## 📚 Projects
 
-**Currently working on:**
-- 🎹 [**skald**](https://github.com/rickyc0626/skald) - An interactive music notation editor and player, inspired by Musescore
-- 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - A homegrown issue tracker designed to help you squash bugs
-
-**Other projects:**
+- 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - Productivity tools to help you squash procrastination
+- 🎹 [**skald**](https://github.com/rickyc0626/skald) - A spaced-repetition tool to help pianists improve their memory
+- 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
 - ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA
 - 🧪 [**atomix**](https://github.com/RickyC0626/atomix) - Interactive periodic table of elements
-- 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
 <!-- - 🇵🇭 [**biro**](https://github.com/RickyC0626/biro)
   - A Bisaya-flavored programming language transpiled to C -->
 <!-- - 🤖 [**PersonalGPT**](https://github.com/personalgpt/personalgpt) $\textsf{\color{orange} (on hiatus)}$
@@ -17,8 +14,10 @@
 <!-- - 🧠 [**Vibrainium**](https://github.com/rickyc0626/vibrainium) $\textsf{\color{red} (early planning stage)}$
   - A forum like StackOverflow for you and your future self -->
 
+<h2>🏭 Open Source Contributions</h2>
+
 <details>
-  <summary><h2>🏭 Open Source Contributions</h2></summary>
+  <summary><b>Click to toggle view</b></summary>
   <div align="left">
     <a href="https://github.com/liveblocks/liveblocks" title="liveblocks/liveblocks">
       <img src="https://github-readme-stats-rickyc0626.vercel.app/api/pin/?username=liveblocks&repo=liveblocks&theme=dark&hide_border=true&description_lines_count=2">
@@ -50,13 +49,11 @@
   </div>
 </details>
 
-<details>
-  <summary><h2>📊 Profile Stats</h2></summary>
+## 📊 Profile Stats
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rickyc0626&theme=dark&hide_border=true">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true&show=prs_merged_percentage">
-  </a>
-</details>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=rickyc0626&theme=dark&hide_border=true">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-rickyc0626.vercel.app/api?username=rickyc0626&show_icons=true&theme=dark&hide_border=true&count_private=true&show=prs_merged_percentage">
+</a>
