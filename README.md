@@ -1,10 +1,12 @@
 ## 📚 Projects
 
-- 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - Productivity tools to help you squash procrastination
-- 🎹 [**skald**](https://github.com/rickyc0626/skald) - A spaced-repetition tool to help pianists improve their memory
 - 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
-- ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA
-- 🧪 [**atomix**](https://github.com/RickyC0626/atomix) - Interactive periodic table of elements
+- 🚧 More coming soon...
+<!-- - 🚇 [**journeyrail**](https://github.com/rickyc0626/journeyrail) - All-in-one map for MTA subway, MetroNorth, LIRR, Amtrak, and more -->
+<!-- - 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - Productivity tools to help you squash procrastination -->
+<!-- - ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA -->
+<!-- - 🎹 [**skald**](https://github.com/rickyc0626/skald) - A spaced-repetition tool to help pianists improve their memory -->
+<!-- - 🧪 [**atomix**](https://github.com/RickyC0626/atomix) - Interactive periodic table of elements -->
 <!-- - 🇵🇭 [**biro**](https://github.com/RickyC0626/biro)
   - A Bisaya-flavored programming language transpiled to C -->
 <!-- - 🤖 [**PersonalGPT**](https://github.com/personalgpt/personalgpt) $\textsf{\color{orange} (on hiatus)}$
