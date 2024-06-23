@@ -1,6 +1,6 @@
 ## 📚 Projects
 
-- 🎨 [**portfolio-v2**](https://github.com/rickyc0626/portfolio-v2) - Static site of rickychon.me written in Astro
+- 🎨 [**portfolio-v2**](https://github.com/rickyc0626/portfolio-v2) - Static site of [rickychon.me](https://rickychon.me) written in Astro
 - 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
 - 🚧 More coming soon...
 
