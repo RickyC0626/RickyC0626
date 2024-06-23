@@ -1,7 +1,10 @@
 ## 📚 Projects
 
+- 🎨 [**portfolio-v2**](https://github.com/rickyc0626/portfolio-v2) - Static site of rickychon.me written in Astro
 - 🖼️ [**qoi.js**](https://github.com/rickyc0626/qoi.js) - QOI codec written in JavaScript, a faster alternative to PNG
 - 🚧 More coming soon...
+
+**Note:** repos that show 404 page are most likely private
 <!-- - 🚇 [**journeyrail**](https://github.com/rickyc0626/journeyrail) - All-in-one map for MTA subway, MetroNorth, LIRR, Amtrak, and more -->
 <!-- - 🐛 [**skwash**](https://github.com/rickyc0626/skwash) - Productivity tools to help you squash procrastination -->
 <!-- - ☄️ [**neoviz**](https://github.com/rickyc0626/neoviz) - A visualization tool for near-Earth objects using data from NASA -->
